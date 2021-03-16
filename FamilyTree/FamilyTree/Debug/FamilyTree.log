@@ -1,0 +1,7 @@
+﻿  FamilyTree.cpp
+C:\Users\aaron\source\repos\FamilyTree\FamilyTree\FamilyTree.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aaron\source\repos\FamilyTree\FamilyTree\FamilyTree.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aaron\source\repos\FamilyTree\FamilyTree\FamilyTree.cpp(110,74): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aaron\source\repos\FamilyTree\FamilyTree\FamilyTree.cpp(116,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aaron\source\repos\FamilyTree\FamilyTree\FamilyTree.cpp(90): warning C4715: 'getPerson': not all control paths return a value
+  FamilyTree.vcxproj -> C:\Users\aaron\source\repos\FamilyTree\Debug\FamilyTree.exe
